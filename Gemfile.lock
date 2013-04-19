@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    twitter-text (1.6.1)
+      unf (~> 0.0.5)
+    unf (0.0.5)
+      unf_ext
+    unf_ext (0.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  twitter-text
